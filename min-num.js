@@ -12,3 +12,5 @@ function getMin() {
     });
     return min;
 }
+
+//Output:- -4
