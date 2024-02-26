@@ -12,3 +12,5 @@ function findNum() {
     });
     return max;
 }
+
+//OUTPUT:-78
